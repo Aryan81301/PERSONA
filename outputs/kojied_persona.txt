@@ -1,0 +1,34 @@
+COMMENT:
+I think it’s the right thing to do. I’m a programmer myself, and I know how much time and effort goes to making a website. Heck, I was working on a website for the past year and didn’t even finish it.
+URL: https://www.reddit.com/r/news/comments/1jl7yzc/i_am_the_owner_of_sportsbook_review_com_ama/cajm8vy/
+
+COMMENT:
+Uhhh, I’m not sure. It’s not a very good metric for individual performance, since you can have a high PDO without doing much.
+URL: https://www.reddit.com/r/hockey/comments/1j8h44a/pdo_is_a_great_metric_for_predicting_future/cbc44v8/
+
+COMMENT:
+It is actually. I’m an iOS developer, and we just had an internal meetup where we discussed the new featureset. The latency is noticeable on the M1 MBP, and since it’s a M1 MBP, the latency is more noticeable than the Intel MBPs.
+URL: https://www.reddit.com/r/VisionPro/comments/1j6j19f/lidar_on_m1_macs/j6wk9g9/
+
+COMMENT:
+I personally am more of a headphones guy, but I do understand the appeal of airpods. If you don’t like the sound quality, you can always get the pro version.
+URL: https://www.reddit.com/r/teenagers/comments/1j49g81/i_cant_believe_i_just_saw_a_kid_with_wireless/j64x0n7/
+
+COMMENT:
+I’m pretty sure this is a one-off, and it won’t happen again.
+URL: https://www.reddit.com/r/FoodNYC/comments/1j2o07h/drinks_at_mcdonalds/j5vl66j/
+
+COMMENT:
+Yeah it’s not a very good measure since you could be getting lucky with the pucks.
+URL: https://www.reddit.com/r/hockey/comments/1i128j4/dont_blame_boudreau_or_pdo_for_the_caps_slump/cazrjqw/
+
+COMMENT:
+Yeah I think the same thing, and I have a feeling that it’s related to the latest patch.
+URL: https://www.reddit.com/r/civ5/comments/1hvsb4k/do_people_have_to_wait_for_units_to_complete_their/dax4fjx/
+
+COMMENT:
+They have been working on the 3D map + 360˚ video at least since 2015. You can see the [patent here](https://patents.google.com/patent/US9585340B2/en)
+URL: https://www.reddit.com/r/VisionPro/comments/1bhijt4/spacial_tours_with_3d_map_and_360_video/elo0kmp/
+
+COMMENT:
+Yeah I feel the same way. I still use my Mac for most of
