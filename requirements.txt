@@ -1,0 +1,4 @@
+praw
+together
+streamlit
+python-dotenv
